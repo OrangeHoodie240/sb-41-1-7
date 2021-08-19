@@ -1,0 +1,10 @@
+.vending-machine {
+    border: black solid 3px; 
+    width: 60vw; 
+    margin: 40px 0 0 20vw;
+    padding: 5%; 
+}
+
+.snack-panel { 
+    border: solid 1px red; 
+}
